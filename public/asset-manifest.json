@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd6f7c86.chunk.css",
+    "main.js": "/static/js/main.3cb4e559.chunk.js",
+    "main.js.map": "/static/js/main.3cb4e559.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f49b074.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f49b074.js.map",
+    "static/css/2.95456d05.chunk.css": "/static/css/2.95456d05.chunk.css",
+    "static/js/2.883d7e40.chunk.js": "/static/js/2.883d7e40.chunk.js",
+    "static/js/2.883d7e40.chunk.js.map": "/static/js/2.883d7e40.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.95456d05.chunk.css.map": "/static/css/2.95456d05.chunk.css.map",
+    "static/css/main.fd6f7c86.chunk.css.map": "/static/css/main.fd6f7c86.chunk.css.map",
+    "static/js/2.883d7e40.chunk.js.LICENSE.txt": "/static/js/2.883d7e40.chunk.js.LICENSE.txt",
+    "static/media/Methodize_lp-circles-bg.482655e4.png": "/static/media/Methodize_lp-circles-bg.482655e4.png",
+    "static/media/Product-screenshot.fd24f89b.png": "/static/media/Product-screenshot.fd24f89b.png",
+    "static/media/team.72c9b486.svg": "/static/media/team.72c9b486.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f49b074.js",
+    "static/css/2.95456d05.chunk.css",
+    "static/js/2.883d7e40.chunk.js",
+    "static/css/main.fd6f7c86.chunk.css",
+    "static/js/main.3cb4e559.chunk.js"
+  ]
+}
